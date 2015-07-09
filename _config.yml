@@ -1,10 +1,10 @@
 # Site settings
 title: Guía de Datos Abiertos para México
 email: hola@datos.gob.mx
-baseurl: "/guia"
+baseurl: "/guia-submodule-test"
 url: "http://mxabierto.github.io"
 twitter_username: jekyllrb
-github_username:  mxabierto
+github_username:  carlosmaya
 
 # Build settings
 markdown: kramdown
